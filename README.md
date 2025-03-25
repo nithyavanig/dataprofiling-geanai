@@ -43,5 +43,7 @@ ReDoc: http://127.0.0.1:8005/redoc
 ### UI
 
 cd dpdashboard
+
 npm i
+
 npm run dev
